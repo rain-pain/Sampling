@@ -3,7 +3,7 @@ This script solves a bivariate sample *(Probability theory)*.
 
 
 ## How to start:
-You need to upload a text file with pairs of points on the plane using console.
+You need to upload a text file with pairs of numbers using console.
 
 You need to wait a bit and a folder will appear in the directory with the script, which contains a designed .docx file with all the pictures (pictures are also saved in the folder) 
 
